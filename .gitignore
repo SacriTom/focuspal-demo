@@ -1,3 +1,7 @@
 *.apk
 .DS_Store
 Thumbs.db
+
+# Python bytecode cache (auto-regenerated; not source)
+__pycache__/
+*.pyc
