@@ -35,14 +35,8 @@ supporting-assets/
 │   ├── 03-forge-maker.md                      ← FORGE — Maker
 │   ├── 04-echo-communicator.md                ← ECHO — Communicator
 │   └── 05-atlas-manager.md                    ← ATLAS — Manager
-├── 3-source-code/                             ← Flutter prototype source snapshot
-│   ├── lib/                                   ← 26 Dart files (10 screens, 6 widgets, 4 state providers)
-│   ├── android/app/src/main/kotlin/...        ← Kotlin native handler (Tier 2 MethodChannel)
-│   ├── android/app/src/main/AndroidManifest.xml
-│   ├── pubspec.yaml
-│   ├── analysis_options.yaml
-│   ├── test/widget_test.dart
-│   └── README.md                              ← Flutter project README
+├── 3-source-code/
+│   └── README.md                              ← pointer to https://github.com/SacriTom/focuspal-source (full Flutter source + 50-commit / 18-tag iteration history, public for grading)
 └── 4-screenshots/
     ├── pipeline-process/                      ← 24 screenshots from the multi-session pipeline run
     ├── prototype-smoke-test/                  ← prototype screenshots (CP-018+ re-capture pending)
@@ -70,6 +64,8 @@ Three free-tier access paths, all live:
 | Pipeline tracker (operator dashboard from the run) | https://sacritom.github.io/focuspal-demo/pipeline-tracker.html |
 | Walkthrough video (60-90 s) | [URL populated at submission] |
 
-## Privacy note on source code
+## Source code repo
 
-The source-code snapshot in `3-source-code/` is taken from the private `SacriTom/focuspal-source` git repo (full history, all polish-iteration tags). The snapshot reflects tag `cp019-web-distribution-live` (current production main). If the reviewer prefers full git history, the source repo can be opened to read access on request.
+Live and public for the grading window: **https://github.com/SacriTom/focuspal-source**
+
+Full git history with 50+ commits and 18 named tags spanning the entire iteration cycle (pre-polish baseline → bug sweep → home-rooms iterations → web-layout iterations → current production). See `3-source-code/README.md` for a guided tour of the most useful tags and entry points. After grading, the repo will be reverted to private.
