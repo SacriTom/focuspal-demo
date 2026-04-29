@@ -25,7 +25,7 @@ The emotional attachment between user and Chibi is not a feature -- it is the en
 
 The Chibi thrives when the user puts the phone down. It does not suffer when the user picks it up -- it notices, reacts, and gently communicates. The difference is load-bearing: "Your Chibi is happy because you focused" is architecturally superior to "Your Chibi is sad because you scrolled." The emotional cost of a negative state should motivate change, not inflict guilt.
 
-**Research basis:** IRIS Section 5.1 (guilt-based approaches fail), Section 5.2 (positive reinforcement > punishment, Biddle et al. 2021 N=47 studies), Section 11.1 (persuasion vs. manipulation line).
+**Research basis:** IRIS Section 5.1 (guilt-based approaches fail), Section 5.2 (positive reinforcement > punishment, grounded in Self-Determination Theory and the Fogg Behavior Model), Section 11.1 (persuasion vs. manipulation line).
 
 ### P3. Autonomy Over Control
 

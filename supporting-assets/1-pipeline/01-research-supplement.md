@@ -224,7 +224,7 @@ Gamification research demonstrates that combining continuous progress indicators
 
 **Finding 2: Progressive degradation is less likely to trigger avoidance than immediate negative feedback.**
 
-The original brief's Section 5 established that guilt-based approaches fail for sustained behaviour change (Biddle et al., 2021, N=47 studies). Immediate environment degradation is a guilt trigger -- the user opens the app and immediately sees damage. A lagging threshold gives the user a window to self-correct before the environment reflects sustained poor behaviour. This is consistent with the two-stage negative feedback model already proposed (Annoyed before Sad, Section 6.2).
+The original brief's Section 5 established that guilt-based approaches fail for sustained behaviour change (Self-Determination Theory, Ryan & Deci, 2000). Immediate environment degradation is a guilt trigger -- the user opens the app and immediately sees damage. A lagging threshold gives the user a window to self-correct before the environment reflects sustained poor behaviour. This is consistent with the two-stage negative feedback model already proposed (Annoyed before Sad, Section 6.2).
 
 **Confidence level:** Indicates. The guilt-avoidance principle is well-established; the threshold-delay application is a logical extension.
 

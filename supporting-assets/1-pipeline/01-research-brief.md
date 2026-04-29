@@ -234,9 +234,9 @@ Research on parental screen guilt demonstrates that while guilt can motivate sho
 **Counter-evidence:** Some users do respond to "shock" data (e.g., "You spent 4 hours on TikTok today"). However, this effect habituates rapidly — the 15th notification carries less weight than the first. And for users who already feel guilty, the additional data compounds negative affect without providing a path to change.
 
 **Finding 2: Positive reinforcement outperforms punishment for sustained behaviour change.**
-A systematic review of screen-time interventions identified goal setting, positive reinforcement, and self-monitoring as the most effective behavioural techniques (International Journal of Behavioral Nutrition and Physical Activity, Biddle et al., 2021, N=47 studies). Notably, interventions that combined positive reinforcement with goal-setting produced larger effect sizes than those relying on restriction or negative feedback.
+Behavioural-change literature consistently identifies goal setting, positive reinforcement, and self-monitoring as the most effective techniques (Self-Determination Theory, Ryan & Deci, 2000; Fogg Behavior Model). Interventions that combine positive reinforcement with goal-setting tend to produce larger and more sustained effects than those relying on restriction or negative feedback.
 
-**Confidence level:** Demonstrates. Meta-analytic evidence across 47 studies.
+**Confidence level:** Indicates. Aligned with established behaviour-change frameworks (SDT, Fogg).
 
 **Implication for FocusPal:** The Chibi thriving (positive reinforcement) is architecturally superior to a tree dying (punishment). This is not a matter of aesthetics — it is a mechanistic difference in how the brain processes the feedback. FocusPal's design should emphasise what the user gains (happy Chibi, new activities, adventures) rather than what the user loses (annoyed Chibi).
 
@@ -623,7 +623,6 @@ Design 2-3 environmental states (bright, normal, dim). Keep negative states mild
 | Internet Matters, Finch Review (2025) | Product review | Section 3 |
 | Ryan & Deci, Self-Determination Theory (2000) | Peer-reviewed (seminal) | Section 5 |
 | Oxford Academic / IwC, SDT in Behaviour Change Technologies (2024) | Peer-reviewed | Section 5 |
-| Biddle et al., IJBNPA, Screen Time Interventions Meta-Analysis (2021) | Peer-reviewed (N=47) | Section 5 |
 | Taylor & Francis, Parental Screen Guilt (2024) | Peer-reviewed | Section 5 |
 | BJ Fogg, Behavior Model / Tiny Habits (Stanford) | Academic framework | Section 5 |
 | Nir Eyal, Hooked: Habit-Forming Products (2014) | Commercial framework | Section 5 |
