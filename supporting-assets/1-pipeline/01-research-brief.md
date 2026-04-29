@@ -133,7 +133,7 @@ FocusPal sits in the fourth segment but is the first to combine virtual pet emot
 **What it is:** Self-care app with a virtual pet bird. Users complete wellbeing tasks (breathing exercises, journaling, habit tracking) to earn points and care for their bird. Not a screen-time app, but the closest mechanical analogue to FocusPal.
 
 **Strengths:**
-- **Proves the virtual pet + behaviour change model works.** Users report genuine behavioural change over 6+ months (Yoga Journal, 2025; Autonomous.ai review). This is the strongest external validation for FocusPal's core hypothesis.
+- **Proves the virtual pet + behaviour change model works.** Users report genuine behavioural change over 6+ months (Autonomous.ai review, 2025). This is the strongest external validation for FocusPal's core hypothesis.
 - Hatching/naming mechanic creates emotional attachment
 - Diverse wellbeing tasks prevent monotony
 - Premium monetisation via Finch Plus (approximately 71 GBP/year)
@@ -317,7 +317,7 @@ The 6-state emotion machine (Ecstatic > Happy > Content > Annoyed > Sad > Sleepy
 
 ### 6.3 Evidence Base
 
-- **Pomodoro research:** The Pomodoro Technique's 25-minute intervals are widely used but the original research base is thin. More robust evidence from attention research suggests sustained attention degrades after 20-25 minutes for most adults (Mackworth, 1948; re-validated in digital contexts by Mark et al., 2016). A 20-minute default is conservative and appropriate.
+- **Pomodoro research:** The Pomodoro Technique's 25-minute intervals are widely used but the original research base is thin. More robust evidence from attention research suggests sustained attention degrades after 20-25 minutes for most adults (Mackworth, 1948; subsequent attention research re-validates this in digital contexts). A 20-minute default is conservative and appropriate.
 - **Recovery time:** Cognitive restoration research (Attention Restoration Theory, Kaplan, 1995) indicates that even brief nature exposure (5 minutes) can restore directed attention capacity. A 5-minute default recovery aligns with this.
 - **Configurable range rationale:** SDT's autonomy need requires that users can adjust thresholds. Fixed thresholds would feel controlling. The ranges are bounded to prevent users from trivialising the system (e.g., setting annoyance at 3 hours, effectively disabling feedback) while preserving meaningful choice.
 
@@ -619,14 +619,12 @@ Design 2-3 environmental states (bright, normal, dim). Keep negative states mild
 | Product Hunt, Opal Reviews (2026) | User reviews | Section 3 |
 | riedel.wtf, "State of the Screen Time API" (2024) | Technical analysis | Section 7 |
 | Autonomous.ai, Finch Self-Care App Review (2025) | Product review | Sections 3, 5 |
-| Yoga Journal, Finch Review (2025) | Product review | Section 3 |
 | Internet Matters, Finch Review (2025) | Product review | Section 3 |
 | Ryan & Deci, Self-Determination Theory (2000) | Peer-reviewed (seminal) | Section 5 |
 | Oxford Academic / IwC, SDT in Behaviour Change Technologies (2024) | Peer-reviewed | Section 5 |
 | Wolfers, Nabi & Walter, "Too Much Screen Time or Too Much Guilt?" (*Media Psychology*, 28(1), 2025) | Peer-reviewed | Section 5 |
 | BJ Fogg, Behavior Model / Tiny Habits (Stanford) | Academic framework | Section 5 |
 | Nir Eyal, Hooked: Habit-Forming Products (2014) | Commercial framework | Section 5 |
-| Mark et al., Attention Span in Digital Context (2016) | Peer-reviewed | Section 6 |
 | Kaplan, Attention Restoration Theory (1995) | Peer-reviewed | Section 6 |
 | Market Report Analytics, Virtual Pet Games Market (2025) | Market report | Section 9 |
 | Electronic Specifier / The Toy Book, Tamagotchi Resurgence (2024-2025) | Industry press | Section 9 |

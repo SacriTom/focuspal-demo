@@ -218,7 +218,7 @@ Environment degradation should only occur after prolonged annoyed/sad Chibi stat
 
 **Finding 1: Threshold-based feedback outperforms immediate feedback for sustained behaviour change.**
 
-Gamification research demonstrates that combining continuous progress indicators (gradual accumulation) with threshold-based state changes (level-ups) produces more durable engagement than either approach alone (Sam Liberty, "31 Core Gamification Techniques," Medium, 2025). The environment acting as a lagging indicator is analogous to a "level" system -- the user sees gradual mood changes in the Chibi (continuous feedback) and environment shifts only at sustained thresholds (milestone feedback). This dual-channel approach aligns with the ambient information display research cited in the original brief (Section 8).
+Gamification research suggests that combining continuous progress indicators (gradual accumulation) with threshold-based state changes (level-ups) produces more durable engagement than either approach alone. The environment acting as a lagging indicator is analogous to a "level" system -- the user sees gradual mood changes in the Chibi (continuous feedback) and environment shifts only at sustained thresholds (milestone feedback). This dual-channel approach aligns with the ambient information display research cited in the original brief (Section 8).
 
 **Confidence level:** Indicates. Gamification research supports the principle; the specific application to virtual-pet environments is inferred.
 
@@ -439,7 +439,7 @@ Finch's design offers the closest precedent:
 - Brief daily check-in (set intentions, send Finch on an adventure)
 - If users skip a day, nothing bad happens -- no punishment for absence
 - Rewards earned through real-world self-care tasks, not in-app time
-- The app succeeds by making users feel supported, not fixed (Autonomous.ai, 2025; Yoga Journal, 2025)
+- The app succeeds by making users feel supported, not fixed (Autonomous.ai, 2025)
 
 Finch demonstrates that the paradox is solvable: you maintain retention by being the thing users come back to by choice (emotional bond) not by compulsion (fear of loss).
 
@@ -619,7 +619,6 @@ Several directives interact and should be designed as a system, not in isolation
 | ScienceDirect, Criterion Validity of Research-Based Screen Time Tracking (2022) | Peer-reviewed | S2 |
 | Secureprivacy.ai, Privacy by Design GDPR Guide (2025) | Regulatory guide | S2 |
 | ICO, Guidance for Wellbeing App Developers (2025) | Regulatory guidance | S2 |
-| Sam Liberty, 31 Core Gamification Techniques (Medium, 2025) | Industry analysis | S3 |
 | PMC, Gamification for Health and Wellbeing Systematic Review (2018) | Peer-reviewed | S4 |
 | ScienceDirect, Non-monotonic Consumer Motivation in Gamified Programmes (2026) | Peer-reviewed | S4 |
 | Rac.thairobotics.org, Psychology of Random Rewards in Modern Games (2024) | Industry analysis | S4 |
@@ -638,7 +637,6 @@ Several directives interact and should be designed as a system, not in isolation
 | Wikipedia, Tamagotchi History | Reference | S7 |
 | Scott Wallace PhD, Best Mental Health Apps Lose Users (Medium, 2024) | Industry analysis | S7 |
 | Autonomous.ai, Finch Self-Care App Review (2025) | Product review | S7 |
-| Yoga Journal, Finch Review (2025) | Product review | S7 |
 | Prosocial Design Network, Digital Self-Control Apps (2025) | Research compilation | S7 |
 | Finchcare.com, Finch App | Product reference | S7 |
 | ISPR, Our Undeniable Bond with Virtual Pets (2010) | Academic commentary | S9 |
