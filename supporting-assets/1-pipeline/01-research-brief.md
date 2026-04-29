@@ -227,7 +227,7 @@ Three personas derived from screen-time usage data, competitor review patterns, 
 The conventional wisdom in screen-time apps is that showing users how much time they waste will motivate change. The data says otherwise.
 
 **Finding 1: Guilt drives short-term compliance, not sustained change.**
-Research on parental screen guilt demonstrates that while guilt can motivate short-term screen-time reduction, excessive guilt leads to negative psychological effects including increased parental stress and decreased relationship satisfaction (Taylor & Francis, Robb & Shellenbarger, 2024). The mechanism transfers to self-directed guilt: users who feel bad about their screen time may reduce it temporarily, but the negative emotional association with the intervention leads to app abandonment. This is consistent with Self-Determination Theory's finding that extrinsic and controlled forms of motivation fail to sustain behaviour change after the intervention ends (Ryan & Deci, 2000, SDT.org).
+Research on parental screen guilt demonstrates that while guilt can motivate short-term screen-time reduction, excessive guilt leads to negative psychological effects including increased parental stress and decreased relationship satisfaction (Wolfers, Nabi & Walter, *Media Psychology*, 2025, "Too Much Screen Time or Too Much Guilt?"). The mechanism transfers to self-directed guilt: users who feel bad about their screen time may reduce it temporarily, but the negative emotional association with the intervention leads to app abandonment. This is consistent with Self-Determination Theory's finding that extrinsic and controlled forms of motivation fail to sustain behaviour change after the intervention ends (Ryan & Deci, 2000, SDT.org).
 
 **Confidence level:** Indicates. Multiple studies converge on this finding across different populations, though none specifically test screen-time apps as the guilt mechanism.
 
@@ -623,7 +623,7 @@ Design 2-3 environmental states (bright, normal, dim). Keep negative states mild
 | Internet Matters, Finch Review (2025) | Product review | Section 3 |
 | Ryan & Deci, Self-Determination Theory (2000) | Peer-reviewed (seminal) | Section 5 |
 | Oxford Academic / IwC, SDT in Behaviour Change Technologies (2024) | Peer-reviewed | Section 5 |
-| Taylor & Francis, Parental Screen Guilt (2024) | Peer-reviewed | Section 5 |
+| Wolfers, Nabi & Walter, "Too Much Screen Time or Too Much Guilt?" (*Media Psychology*, 28(1), 2025) | Peer-reviewed | Section 5 |
 | BJ Fogg, Behavior Model / Tiny Habits (Stanford) | Academic framework | Section 5 |
 | Nir Eyal, Hooked: Habit-Forming Products (2014) | Commercial framework | Section 5 |
 | Mark et al., Attention Span in Digital Context (2016) | Peer-reviewed | Section 6 |
