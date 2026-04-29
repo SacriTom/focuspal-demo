@@ -69,7 +69,7 @@ However, the product owner identifies a genuine credibility gap. If a user spend
 
 **Self-correction:** The original brief correctly identified this limitation ("Cannot detect which other apps the user is using... This creates potential for false positives and false negatives") but underweighted its impact on product credibility. The privacy advantage is real, but an inaccurate Chibi is worse than a private one because an inaccurate Chibi is one users stop trusting.
 
-**Confidence level:** Indicates. No direct research tests this specific trade-off (privacy vs. accuracy in virtual-pet-based behaviour change). However, research on self-reported vs. objective screen time measurement demonstrates that self-reported screen time correlates only moderately with logged measurements (Júdice et al., ScienceDirect, 2021). If FocusPal relies solely on app-level inference, it is effectively using "self-report-equivalent" accuracy for the Chibi's mood -- the very measurement approach the literature identifies as unreliable.
+**Confidence level:** Indicates. No direct research tests this specific trade-off (privacy vs. accuracy in virtual-pet-based behaviour change). However, research on self-reported vs. objective screen time measurement demonstrates that self-reported screen time correlates only moderately with logged measurements (Júdice et al., *Journal of Prevention*, 2023). If FocusPal relies solely on app-level inference, it is effectively using "self-report-equivalent" accuracy for the Chibi's mood -- the very measurement approach the literature identifies as unreliable.
 
 ### 2.3 Android: UsageStatsManager API -- Technical Analysis
 
@@ -156,7 +156,7 @@ The ICO's guidance for wellbeing app developers (2025) explicitly endorses opt-i
 
 **Finding:** The evidence is indirect but directionally strong.
 
-Research on self-reported vs. objectively measured screen time demonstrates that people systematically underestimate their phone usage (Júdice et al., ScienceDirect, 2021; PMC, Discrepancies Between Self-reported and Objectively Measured Smartphone Screen Time, 2023). If users underestimate their usage and the Chibi's mood is based on inaccurate data, the feedback loop is weakened -- the Chibi may be content while the user is actually overusing.
+Research on self-reported vs. objectively measured screen time demonstrates that people systematically underestimate their phone usage (Júdice, Sousa-Sá & Palmeira, *Journal of Prevention*, 2023, "Discrepancies between self-reported and objectively measured smartphone screen time: before and during lockdown"). If users underestimate their usage and the Chibi's mood is based on inaccurate data, the feedback loop is weakened -- the Chibi may be content while the user is actually overusing.
 
 A 2025 field experiment by the Danish Competition and Consumer Authority found that friction-based interventions (forced pauses, time planning prompts) reduced social media usage by approximately 33% over three weeks (Cyberpsychology, Behavior, and Social Networking). Critically, these interventions required accurate detection of which app was being opened to deliver the friction at the right moment. Accurate detection enables accurate intervention.
 
@@ -611,7 +611,7 @@ Several directives interact and should be designed as a system, not in isolation
 | CIIT Training, Android UsageStatsManager Guide (2024) | Technical guide | S2 |
 | Apple Developer Documentation, Screen Time Frameworks (2025) | Platform documentation | S2 |
 | riedel.wtf, State of the Screen Time API (2024) | Technical analysis | S2 |
-| Júdice et al., Smartphone Screen Time: Inaccuracy of Self-Reports (ScienceDirect, 2021) | Peer-reviewed | S2 |
+| Júdice et al., Discrepancies Between Self-reported and Objectively Measured Smartphone Screen Time: Before and During Lockdown (*Journal of Prevention*, 44, 2023) | Peer-reviewed | S2 |
 | Danish Competition and Consumer Authority, Digital Strategies for Screen Time Reduction (Cyberpsychology, Behavior, and Social Networking, 2025) | Peer-reviewed / government study | S2, S7 |
 | PMC, Evaluating Effectiveness of Apps Designed to Reduce Mobile Phone Use (2023) | Peer-reviewed | S2, S4 |
 | Cloudwards, How to Bypass Screen Time (2025) | Technical guide | S2 |
