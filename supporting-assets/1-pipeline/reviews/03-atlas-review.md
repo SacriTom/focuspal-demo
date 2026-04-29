@@ -130,7 +130,7 @@ Key spec alignments verified in code:
 - **Presets:** Three presets with distinct parameter sets. Default: Focus-Friendly. Relaxed has hard-coded minimums (D-036).
 - **Sleepy freeze:** `_startMoodTimer` returns early during sleep time. `_handleSleepInterruption` banks disturbances without mood changes. Confirmed freeze mechanic.
 - **Morning inheritance:** `_handleMorningWakeUp` maps disturbance count to morning mood (0 = Happy, 1-2 = Content, 3+ = Annoyed, floor = Annoyed, never Sad). Resets disturbance counter. Plays wake-up animation for 3s then transitions to mood idle.
-- **Asymmetric transitions:** `_evaluateMoodOnReturn` handles upward transitions on return. `_startMoodTimer` handles downward transitions during continuous use. Downward is checked every minute (fast); upward requires leaving and returning (slow). Matches spec's "quick to notice, slow to forgive" principle.
+- **Asymmetric transitions:** `_evaluateMoodOnReturn` handles upward transitions on return. `_startMoodTimer` handles downward transitions during continuous use. Downward is checked every minute (fast); upward requires leaving and returning (slow). Matches spec's "quick to notice, quick to forgive" principle.
 
 **State machine verdict: Fully functional. Six states, presets, sleepy freeze, morning inheritance all implemented.**
 

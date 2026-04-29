@@ -666,7 +666,7 @@ Six mood states, ordered from most positive to most negative (plus the special S
 | Content --> Annoyed | Phone open for >20 min (Time-to-annoyance parameter) | Clear cause-and-effect: "You've been on your phone a while" |
 | Annoyed --> Sad | Continued phone use for >10 min after entering Annoyed (Annoyance escalation parameter) | Two-stage warning: Annoyed is the yellow light, Sad is the red |
 
-**Key design rule:** Downward transitions are faster than upward transitions. This creates clear cause-and-effect (IRIS Section 5.1, D-006) while ensuring the user must invest time to see improvement. The asymmetry teaches: "Quick to notice, slow to forgive -- but always forgiving."
+**Key design rule:** Downward transitions are faster than upward transitions. This creates clear cause-and-effect (IRIS Section 5.1, D-006) while ensuring the user must invest time to see improvement. The asymmetry teaches: "Quick to notice, quick to forgive -- and always forgiving."
 
 ### 5.4 Tier 1 vs. Tier 2 Mood Accuracy
 
